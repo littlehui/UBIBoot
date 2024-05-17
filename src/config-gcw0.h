@@ -4,11 +4,11 @@
 #error Include "config.h" instead
 #endif
 
-//#define CFG_CPU_SPEED		996000000
-//#define CFG_EXTAL			12000000
-
-#define CFG_CPU_SPEED		1344000000
+#define CFG_CPU_SPEED		996000000
 #define CFG_EXTAL			12000000
+
+/*#define CFG_CPU_SPEED		1200000000
+#define CFG_EXTAL			12000000*/
 
 #define MBR_PRELOAD_ADDR	0x80000000
 
