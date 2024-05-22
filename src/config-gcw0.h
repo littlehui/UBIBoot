@@ -4,7 +4,7 @@
 #error Include "config.h" instead
 #endif
 
-#define CFG_CPU_SPEED		996000000
+#define CFG_CPU_SPEED		1080000000
 #define CFG_EXTAL			12000000
 
 /*#define CFG_CPU_SPEED		1200000000
